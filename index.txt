@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Dashboard</title>
+</head>
+
+<body>
+
+<!-- Define the overall heading for the webpage -->
+<h1>Dashboard of Project Results</h1>
+
+<!-- Organize the webpage contents into a table -->
+<table>
+  <!-- ************************************************************************ -->
+  <!-- Table row 1 -->
+  <!-- ************************************************************************ -->
+  <tr>
+    <!-- Table row 1, column 1 -->
+    <td>
+      <!-- Define the heading for this portion of the dashboard -->
+      <h3 align=center>Summary Statistics</h3>
+      <!-- Define a link and the destination when someone clicks on the link -->
+      <a href="Summary Statistics-results.html">
+        <!-- Define the clickable image for the link -->
+        <img src="Statistics.jpg" style="width:270px;height:180px;">
+      </a>
+    </td>
+    <!-- Table row 1, column 2 -->
+    <td>
+      <!-- Define the heading for this portion of the dashboard -->
+      <h3 align=center>Bar Chart</h3>
+      <!-- Define a link and the destination when someone clicks on the link -->
+      <a href="Bar Chart-results.html">
+        <!-- Define the clickable image for the link -->
+        <img src="Bar Chart.jpg" style="width:270px;height:180px;">
+      </a>
+    </td>
+    <!-- Table row 1, column 3 -->
+    <td>
+      <!-- Define the heading for this portion of the dashboard -->
+      <h3 align=center>Correlations</h3>
+      <!-- Define a link and the destination when someone clicks on the link -->
+      <a href="Correlation Analysis-results.html">
+        <!-- Define the clickable image for the link -->
+        <img src="Correlation.jpg" style="width:270px;height:180px;">
+      </a>
+    </td>
+  </tr>
+  <!-- ************************************************************************ -->
+  <!-- Table row 2 -->
+  <!-- ************************************************************************ -->
+  <tr>
+    <!-- Table row 2, column 1 -->
+    <td>
+      <!-- Define the heading for this portion of the dashboard -->
+      <h3 align=center>Linear Regressions</h3>
+      <!-- Define a link and the destination when someone clicks on the link -->
+      <a href="Linear Regression-results.html">
+        <!-- Define the clickable image for the link -->
+        <img src="Linear Regression.jpg" style="width:270px;height:180px;">
+      </a>
+    </td>
+    <!-- Table row 2, column 2 -->
+    <td>
+      <!-- Define the heading for this portion of the dashboard -->
+      <h3 align=center>ANOVA</h3>
+      <!-- Define a link and the destination when someone clicks on the link -->
+      <a href="ANOVA-results.html">
+        <!-- Define the clickable image for the link -->
+        <img src="ANOVA.jpg" style="width:270px;height:180px;">
+      </a>
+    </td>
+    <!-- Table row 2, column 3 -->
+    <td>
+      <!-- Define the heading for this portion of the dashboard -->
+      <h3 align=center>Binary Logistic Regression</h3>
+      <!-- Define a link and the destination when someone clicks on the link -->
+      <a href="Binary Logistic Regression 1-results.html">
+        <!-- Define the clickable image for the link -->
+        <img src="binary.jpg" style="width:270px;height:180px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
